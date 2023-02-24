@@ -2,3 +2,7 @@
 #divisibles entre 5 de una lista de números.
 #creaccion de la lista
 num = [20,12,23,25,40]
+#creacion del bucle for
+for n in num:
+    #creacion de if para hallar los divisores de 5
+    if (n%5 == 0):
